@@ -1,0 +1,67 @@
+body{
+	color: #666;
+	background-color: #F0F0F0;
+	font-family: 'Raleway', sans-serif;
+
+}
+
+.container{
+	width: 800px;
+	min-height: 600px;
+	margin: auto;
+	padding: 20px;
+	background-color: #FFF;
+	border: solid 1px #CCC;
+
+}
+
+.center{
+	text-align: center;
+}
+
+.form input{
+	width: 80%;
+	padding: 6px;
+
+}
+
+.footer{
+	font-size: 14px;
+	color: #E81566;
+
+}
+
+#resultados{
+	min-height: 300px;
+}
+
+.art{
+	margin-bottom: 10px;
+	background-color: #F1F1F1;
+	padding: 5px;
+}
+
+.titulo{
+	font-size: 22px;
+	text-transform: uppercase;
+	
+}
+
+.registros{
+	margin:auto;
+	width:1000px;
+	margin-top:20px;
+	border:1px solid #6F96DF;
+	height:auto;
+	padding:10px;
+}
+
+section{
+	margin-top:20px;	
+}
+section table tr td input{
+	width:90%;
+	height:35px;
+	outline:none;
+	font-size:14px;
+}
